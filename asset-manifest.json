@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TFC-Frontend/static/css/main.91f4a030.chunk.css",
+    "main.js": "/TFC-Frontend/static/js/main.3e46a9c2.chunk.js",
+    "main.js.map": "/TFC-Frontend/static/js/main.3e46a9c2.chunk.js.map",
+    "runtime-main.js": "/TFC-Frontend/static/js/runtime-main.a442bebf.js",
+    "runtime-main.js.map": "/TFC-Frontend/static/js/runtime-main.a442bebf.js.map",
+    "static/js/2.85a16793.chunk.js": "/TFC-Frontend/static/js/2.85a16793.chunk.js",
+    "static/js/2.85a16793.chunk.js.map": "/TFC-Frontend/static/js/2.85a16793.chunk.js.map",
+    "index.html": "/TFC-Frontend/index.html",
+    "static/css/main.91f4a030.chunk.css.map": "/TFC-Frontend/static/css/main.91f4a030.chunk.css.map",
+    "static/js/2.85a16793.chunk.js.LICENSE.txt": "/TFC-Frontend/static/js/2.85a16793.chunk.js.LICENSE.txt",
+    "static/media/negative_logo.29805c2a.png": "/TFC-Frontend/static/media/negative_logo.29805c2a.png",
+    "static/media/positive_logo.4a6f1733.png": "/TFC-Frontend/static/media/positive_logo.4a6f1733.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a442bebf.js",
+    "static/js/2.85a16793.chunk.js",
+    "static/css/main.91f4a030.chunk.css",
+    "static/js/main.3e46a9c2.chunk.js"
+  ]
+}
